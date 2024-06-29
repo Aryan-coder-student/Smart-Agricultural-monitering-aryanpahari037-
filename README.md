@@ -39,7 +39,8 @@ AgriTech 2.0 recommends crops based on the following sensor inputs:
 
 
 
-<img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/d100074f-efd5-426f-a858-d6014ef52367" alt="CROP_REC 1" width="400" height="300">
+<img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/d100074f-efd5-426f-a858-d6014ef52367" alt="CROP_REC 1" width="200" height="400">  <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/3cbe6a62-8784-4d3a-930f-7c12ca6c670b" alt="CROP_REC 2" width="200" height="400">
+
 
 
 
