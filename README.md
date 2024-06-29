@@ -36,8 +36,10 @@ AgriTech 2.0 recommends crops based on the following sensor inputs:
 - **Temperature Sensor (DS18B200)**
 - **Humidity Sensors (DHT22 [AM2302])**
 - **pH Sensors (E-201-C)**
-![CROP_REC 1](https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/d100074f-efd5-426f-a858-d6014ef52367)
 
+
+
+<img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/d100074f-efd5-426f-a858-d6014ef52367" alt="CROP_REC 1" width="400" height="300">
 
 
 
