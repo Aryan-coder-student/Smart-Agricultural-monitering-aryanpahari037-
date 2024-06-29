@@ -18,6 +18,12 @@ Improper management of irrigation and soil fertility has contributed significant
 
 AgriTech 2.0 is an advanced alert app designed for farmers. Utilizing Machine Learning and Python, it analyzes sensory data from farmland to provide alerts on fertility and irrigation, and recommends crops based on the land's quality.
 
+
+<img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/1e1d188b-e95c-4486-97f2-18d685db7284" alt="Home Page" width="300" height="500">
+
+
+
+
 ### Features
 
 #### 🌾 Crop Recommendation
@@ -39,7 +45,7 @@ AgriTech 2.0 recommends crops based on the following sensor inputs:
 
 
 
-<img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/d100074f-efd5-426f-a858-d6014ef52367" alt="CROP_REC 1" width="300" height="500">   <>  <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/3cbe6a62-8784-4d3a-930f-7c12ca6c670b" alt="CROP_REC 2" width="200" height="400">  <>  <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/fd591f8e-96ae-44c8-bc49-d8e6bc6d140d" alt="CROP_REC ans"width="300" height="500">
+<img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/d100074f-efd5-426f-a858-d6014ef52367" alt="CROP_REC 1" width="300" height="600">   <>  <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/3cbe6a62-8784-4d3a-930f-7c12ca6c670b" alt="CROP_REC 2" width="200" height="600">  <>  <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/fd591f8e-96ae-44c8-bc49-d8e6bc6d140d" alt="CROP_REC ans" width="300" height="600">
 
 
 
@@ -65,7 +71,7 @@ The app provides irrigation alerts based on these inputs:
 
 
 
-<img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/467b5d61-9b71-4b54-aab4-8cb696f28b92" alt="IRRIGATION 1" width="300" height="500">  <> <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/b99e0a08-bf33-406c-97d9-d2f2bbd98cf9" alt="IRRIGATION 2" width="300" height="500">  <>  <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/e5b8bdd3-78ea-4231-a4e4-a87e4ab934a0" alt="IRRIGATION ans" width="300" height="500">
+<img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/467b5d61-9b71-4b54-aab4-8cb696f28b92" alt="IRRIGATION 1" width="300" height="600">  <> <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/b99e0a08-bf33-406c-97d9-d2f2bbd98cf9" alt="IRRIGATION 2" width="300" height="600">  <>  <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/e5b8bdd3-78ea-4231-a4e4-a87e4ab934a0" alt="IRRIGATION ans" width="300" height="600">
 
 
 
@@ -93,6 +99,11 @@ AgriTech 2.0 checks and alerts the fertility status of farmland using these inpu
 - **Copper (Cu)**
 - **Manganese (Mn)**
 - **Boron (B)**
+
+<img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/b390bdc5-b38e-4c6a-be2f-67035b2604f5" alt="FERTILITY 1" width="300" height="500"> <> <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/8c95a096-f50d-4565-a81f-ca17d644b0f6" alt="FERTILITY ans" width="300" height="500">
+
+
+
 
 ---
 Happy Farming with AgriTech 2.0!
