@@ -39,7 +39,7 @@ AgriTech 2.0 recommends crops based on the following sensor inputs:
 
 
 
-<img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/d100074f-efd5-426f-a858-d6014ef52367" alt="CROP_REC 1" width="200" height="400">   <>  <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/3cbe6a62-8784-4d3a-930f-7c12ca6c670b" alt="CROP_REC 2" width="200" height="400">  <>  <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/fd591f8e-96ae-44c8-bc49-d8e6bc6d140d" alt="CROP_REC ans" width="200" height="400">
+<img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/d100074f-efd5-426f-a858-d6014ef52367" alt="CROP_REC 1" width="300" height="500">   <>  <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/3cbe6a62-8784-4d3a-930f-7c12ca6c670b" alt="CROP_REC 2" width="200" height="400">  <>  <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/fd591f8e-96ae-44c8-bc49-d8e6bc6d140d" alt="CROP_REC ans"width="300" height="500">
 
 
 
@@ -60,6 +60,23 @@ The app provides irrigation alerts based on these inputs:
 - **Temperature Sensor (DS18B200)**
 - **Humidity Sensors (DHT22 [AM2302])**
 - **Soil Moisture Sensor (YL-69)**
+
+
+
+
+
+<img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/467b5d61-9b71-4b54-aab4-8cb696f28b92" alt="IRRIGATION 1" width="300" height="500">  <> <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/b99e0a08-bf33-406c-97d9-d2f2bbd98cf9" alt="IRRIGATION 2" width="300" height="500">  <>  <img src="https://github.com/Aryan-coder-student/Prasunethon/assets/76030680/e5b8bdd3-78ea-4231-a4e4-a87e4ab934a0" alt="IRRIGATION ans" width="300" height="500">
+
+
+
+
+
+
+
+
+
+
+
 
 #### 🌱 Fertility Check and Alert
 
